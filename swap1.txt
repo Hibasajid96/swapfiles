@@ -1,0 +1,2 @@
+hello bye .this is the text i have 
+wriiten in the file swap2.txt
